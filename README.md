@@ -68,9 +68,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
+<!-- ###
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeevan-v8/jeevan-v8/output/github-contribution-grid-snake.svg" />
 
-###
+### -->
 
