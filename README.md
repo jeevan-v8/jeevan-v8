@@ -70,7 +70,7 @@
 
 ###
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/parikshith078/parikshith078/output/github-contribution-grid-snake.svg" />
+
 
 ###
 
