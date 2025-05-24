@@ -25,20 +25,23 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jeevan-v8.jeevan-v8&"  />
+ <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jeevan-v8.jeevan-v8&"  /> -->
 </div>
 
 ###
 
-<p align="center">- 🔭 I’m Currently working on my Portfolio<br><br>- 📚 I'm currently learning Framer Motion<br><br>- ⚡ In my free time I learn about Space Tech</p>
+
+<p align="center">- 🔭 I’m Currently working on my Portfolio<br><br>- 📚 I'm currently learning Framer Motion<br><br>- ⚡ In my free time , I learn about Space Tech</p>
 
 ###
+
+<hr/>
 
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
