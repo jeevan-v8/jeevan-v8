@@ -70,9 +70,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-<!-- ###
+###
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeevan-v8/jeevan-v8/output/github-contribution-grid-snake.svg" />
+<!-- platane/snk works, it just puts it on a new branch -->
+![jeevan-v8 snake gif](https://github.com/jeevan-v8/jeevan-v8/blob/output/github-snake.svg)
 
-### -->
+###
 
