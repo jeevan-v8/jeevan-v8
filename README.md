@@ -8,7 +8,8 @@
 
 ###
 
-<h3 align="center">👩‍💻  I am a Computer Science Student at Indian Institute of Information Technology Dharwad</h3>
+<h3 align="center">👩‍💻 Computer Science Graduate (Class of 2025), Indian Institute of Information Technology Dharwad</h3>
+<p align="center">Passionate about building scalable web applications, solving complex problems, and exploring space technology 🚀</p>
 
 ###
 
