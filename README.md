@@ -31,7 +31,7 @@
 ###
 
 
-<p align="center">- 🔭 I’m Currently working on animated user interfaces <br><br>- 📚 I'm currently learning Framer Motion<br><br>- ⚡ In my free time , I learn about Space Tech</p>
+<!-- <p align="center">- 🔭 I’m Currently working on animated user interfaces <br><br>- 📚 I'm currently learning Framer Motion<br><br>- ⚡ In my free time , I learn about Space Tech</p> -->
 
 ###
 
